@@ -1,8 +1,5 @@
-Here is your **final polished `README.md` file**, rewritten for clarity, completeness, and professionalism while preserving your original structure and intent:
 
----
 
-````markdown
 # 🎓 Student Management System
 
 A complete multi-window desktop application built using **Python (Tkinter)** and **SQLite** to manage student registrations, course management, and result records with an intuitive graphical user interface.
@@ -138,14 +135,5 @@ GitHub: [Abhiram678](https://github.com/Abhiram678)
 
 ---
 
-```
 
----
 
-### ✅ How to Use This
-- Copy the content above into a `README.md` file in your GitHub project folder.
-- Add screenshots to the `assets/` folder and update the paths if needed.
-- If you add dependencies or instructions later, update the relevant sections.
-
-Let me know if you'd like a `LICENSE`, a `requirements.txt`, or `.ppt` version for demo purposes!
-```
