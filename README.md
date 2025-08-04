@@ -104,36 +104,13 @@ Install dependencies using `pip` if additional libraries are used (e.g., Pillow 
 pip install pillow
 ```
 
----
-
-## 📸 Screenshots *(Optional)*
-
-You can add GUI screenshots here to give users a quick preview:
-
-| Login Window               | Dashboard                          |
-| -------------------------- | ---------------------------------- |
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) |
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to fork the repository and submit a pull request.
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 **Abhiram S**
 GitHub: [Abhiram678](https://github.com/Abhiram678)
 
 ---
+
 
 
 
